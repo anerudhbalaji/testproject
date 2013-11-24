@@ -1,4 +1,0 @@
-testproject
-===========
-
-Testing git functionality
